@@ -6,5 +6,8 @@ export interface AuthPosition {
   shadow: string;
   cursor: string;
   rawFlex: string;
-  
+  defaultBg: string;
+  genHeading: string;
+  placeholderColor: string;
+  btnBg: string;
 }
